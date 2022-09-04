@@ -33,7 +33,7 @@ All notable changes to this project will be documented in this file. Dates are d
 - chore: 3.1.0 release - update dependencies [`92f55b8`](https://github.com/coreui/coreui-free-react-admin-template/commit/92f55b8cdfd748a9e72649d5da62b93015a1c8e6)
 - refactor: add reusable folder with DocsLink component [`eef84db`](https://github.com/coreui/coreui-free-react-admin-template/commit/eef84dbbd770c7253080a6f69443c40e4fecefd2)
 - feat: add CSwitch examples to forms [`b31e452`](https://github.com/coreui/coreui-free-react-admin-template/commit/b31e452fd0ea736763d3032d7204cd478863b505)
-- refactor: add CIcon example in _nav.js [`be5d1f0`](https://github.com/coreui/coreui-free-react-admin-template/commit/be5d1f0618f981f18c45be87afb56c4409bd3389)
+- refactor: add CIcon example in _nav.jsx [`be5d1f0`](https://github.com/coreui/coreui-free-react-admin-template/commit/be5d1f0618f981f18c45be87afb56c4409bd3389)
 
 ### [3.0.0](https://github.com/coreui/coreui-free-react-admin-template/compare/v2.6.1...3.0.0)
 
